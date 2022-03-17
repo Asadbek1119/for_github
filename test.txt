@@ -1,3 +1,1 @@
-test uchun test main branch
-men
-adasdasdas
+main uchun branch
